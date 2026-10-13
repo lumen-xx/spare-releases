@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <item>
+      <title>Spare 0.1.0</title>
+      <pubDate>Tue, 13 Oct 2026 10:54:14 GMT</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <enclosure url="https://github.com/lumen-xx/spare-releases/releases/download/v0.1.0/Spare-0.1.0.zip" length="2884421" type="application/octet-stream" sparkle:edSignature="yGCYgQElVZ+zZf5CmCOw1y6KJN/6IgfD/6Fx7fqf6vPzVJtvHZvfsvteFE39E9oytgxnG3J4aTgVFmexmCZLDQ==" sparkle:os="macos"></enclosure>
+    </item>
+    <title>Spare updates</title>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: Xg8DJHD7tImeyNaSXstCUAPxxifi9vQS0LBl+hIc5DitT3uegyzaFpRB5AImwVhiVYC/WbPFdSz3RYV/rYDnBg==
+length: 1086
+-->
