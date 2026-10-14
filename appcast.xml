@@ -3,6 +3,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Spare 0.5.0</title>
+      <pubDate>Wed, 14 Oct 2026 01:04:49 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <enclosure url="https://github.com/lumen-xx/spare/releases/download/v0.5.0/Spare-0.5.0.zip" length="4836788" type="application/octet-stream" sparkle:edSignature="6Q8hnI4shHdFAT+uuk3U8UeoXYeYiDf6AyrYnVtkzUD8INBXwP3JprM3oe7lqqJgBNMhGIySsNevjxURjFQdCg==" sparkle:os="macos"></enclosure>
+    </item>
+    <item>
       <title>Spare 0.4.2</title>
       <pubDate>Tue, 13 Oct 2026 23:04:58 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
@@ -95,6 +104,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Spare updates</title>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: u+dDd9FgvCcdu5h/b66j5CaHUoda/eUTC0vTcCzcuR2ksMLdPwLAEp7P4eit5FKvVsg4+5sGTcyzPKUBMLoODA==
-length: 6838
+edSignature: Ihl78K3on+3+AINEti82unkny9z2+lykmQWV7hKu5IclOWhC+11fDmYdyAUGME/85bFcv4BL0qdSUn47gnCyDA==
+length: 7473
 -->
